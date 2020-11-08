@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li a {
+    color: green;
+    margin-top: 50rem;
+}
+
+h1{
+    font-family: sans-serif;
+    color: chartreuse;
+}
+
+body {
+    background: white url("images/img1.jpg") no-repeat;
+}
